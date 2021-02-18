@@ -36,7 +36,7 @@
             <td valign="top" width="80%">
                 <p align="center">
                     <strong>Audio Links</strong></p>
-<!--Begin SermonAudio Link Button--><SCRIPT LANGUAGE=JavaScript type=text/javascript>document.write('<' + 'script src=http://www.sermonaudio.com/code_sermonlist.asp?sourceid=pilgrimbible&hideheader=false&hidelogo=true&alwaysbible=false&reversecolor=false&rows=30&sourcehref=' + escape(location.href) + '><','/script>');</SCRIPT><!--End SermonAudio Link Button-->
+<!--Begin SermonAudio Link Button--><SCRIPT LANGUAGE=JavaScript type=text/javascript>document.write('<' + 'script src=https://www.sermonaudio.com/code_sermonlist.asp?sourceid=pilgrimbible&hideheader=false&hidelogo=true&alwaysbible=false&reversecolor=false&rows=30&sourcehref=' + escape(location.href) + '><','/script>');</SCRIPT><!--End SermonAudio Link Button-->
             </td>
         </tr>
         </tbody>
