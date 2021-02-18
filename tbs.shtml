@@ -10,7 +10,7 @@
 <div align="center">
 <table border="6" width="515" cellpadding="3" cellspacing="4">
   <tr>
-    <td valign="top"><a href="http://www.pilgrimbible.org/">
+    <td valign="top"><a href="https://www.pilgrimbible.org/">
                 <img src="images/smlogo.gif" width="150" height="128" alt="Pilgrim Bible Church" border="0"></a></td>
     <td valign="top">
                 <div align="center">
@@ -93,8 +93,8 @@
   </tr>
     </tbody>
 </table>
-    <!-- RefTagger from Logos. Visit http://www.logos.com/reftagger. This code should appear directly before the </body> tag. -->
-    <script src="http://bible.logos.com/jsapi/referencetagging.js" type="text/javascript"></script>
+    <!-- RefTagger from Logos. Visit https://www.logos.com/reftagger. This code should appear directly before the </body> tag. -->
+    <script src="https://bible.logos.com/jsapi/referencetagging.js" type="text/javascript"></script>
     <script type="text/javascript">
         Logos.ReferenceTagging.lbsBibleVersion = "NASB";
         Logos.ReferenceTagging.lbsLinksOpenNewWindow = true;
