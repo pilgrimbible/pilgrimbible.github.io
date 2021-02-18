@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <title>Pilgrim Bible Church - Audio Links</title>
+</head>
+<body>
+    <div align="center">
+<table border="6" width="515" cellpadding="3" cellspacing="4">
+  <tr>
+    <td valign="top"><a href="http://www.pilgrimbible.org/">
+                <img src="images/smlogo.gif" width="150" height="128" alt="Pilgrim Bible Church" border="0"></a></td>
+    <td valign="top">
+                <div align="center">
+                <strong><font color="#006633" size="5">Pilgrim Bible Church Online</font><br></strong>
+                <font color="#000000" size="3"><em><strong>Preaching the Doctrines of Grace</strong></em></font>
+				<br />
+				<br />
+            	<font color="#000000" size="2"><b>Tacoma, WA&nbsp;&nbsp;253-693-8470</b><br>
+                <a href="mailto:pilgrimbible@gmail.com">pilgrimbible@gmail.com</a></font>
+				</div></td>
+  </tr>
+</table>
+</div>
+
+    <table align="center" border="0" cellpadding="0" cellspacing="8" width="700">
+        <tbody>
+        <tr>
+            <td valign="top">
+<a href="sof.shtml"><img src="images/statement.gif" width="149" height="33" border="0"></a><br />
+<a href="constitution.shtml"><img src="images/constitution.gif" width="149" height="33" border="0"></a><br />
+<a href="audio.shtml"><img src="images/audio.gif" width="149" height="33" border="0"></a><br />
+<a href="tbs.shtml"><img src="images/saved.gif" width="149" height="33" border="0"></a><br />
+</td>
+
+            <td valign="top" width="80%">
+                <p align="center">
+                    <strong>Audio Links</strong></p>
+<!--Begin SermonAudio Link Button--><SCRIPT LANGUAGE=JavaScript type=text/javascript>document.write('<' + 'script src=http://www.sermonaudio.com/code_sermonlist.asp?sourceid=pilgrimbible&hideheader=false&hidelogo=true&alwaysbible=false&reversecolor=false&rows=30&sourcehref=' + escape(location.href) + '><','/script>');</SCRIPT><!--End SermonAudio Link Button-->
+            </td>
+        </tr>
+        </tbody>
+</table>
+</body>
+</html>
